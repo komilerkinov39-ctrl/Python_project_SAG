@@ -1,0 +1,6 @@
+Cleaned/
+Sop for Oktober/
+*.csv
+*.xlsx
+*.XLSX
+__pycache__/
